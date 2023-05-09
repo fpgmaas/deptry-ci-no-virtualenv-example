@@ -1,0 +1,1 @@
+# deptry-ci-no-virtualenv-example
